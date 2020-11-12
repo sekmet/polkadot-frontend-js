@@ -83,9 +83,9 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://substrate-developer-hub.github.io/substrate-front-end-template",
+  "homepage": "https://sekmet.github.io/polkadot-frontend-js/",
   "bugs": {
-    "url": "https://github.com/substrate-developer-hub/substrate-front-end-template/issues"
+    "url": "https://github.com/sekmet/substrate-front-end-template/issues"
   },
   "keywords": [
     "substrate",
