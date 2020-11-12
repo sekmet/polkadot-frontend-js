@@ -1,4 +1,4 @@
-# Substrate Front End Template
+# [BEGINNER CHALLENGES] Front-End Javascript
 
 This template allows you to create a front-end application that connects to a
 [Substrate](https://github.com/paritytech/substrate) node back-end with minimal
@@ -114,4 +114,4 @@ and [src/ChainState.js](./src/ChainState.js) for a query example.
 The [Account Selector](./src/AccountSelector.js) provides the user with a unified way to
 select their account from a keyring. If the Balances module is installed in the runtime,
 it also displays the user's token balance. It is included in the template already.
-## [BEGINNER CHALLENGES] Front-End Javascript
+
